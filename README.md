@@ -23,3 +23,5 @@ MySocketSingleton .h and .m file import to the your xcode project and
 
 }
 
+
+Android comming soon ...! :) Thank you
